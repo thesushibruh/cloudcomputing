@@ -1,0 +1,26 @@
+
+.scroller-sm::-webkit-scrollbar {
+ width: 2px;
+}
+
+.scroller-sm::-webkit-scrollbar-thumb {
+ background-color: rgba(255, 255, 255, 0.5);
+ border-radius: 10px;
+}
+
+.scroller-sm::-webkit-scrollbar-track {
+ background-color: transparent;
+}
+
+.scroller-md::-webkit-scrollbar {
+ width: 5px;
+}
+
+.scroller-md::-webkit-scrollbar-thumb {
+ background-color: rgba(255, 255, 255, 0.5);
+ border-radius: 10px;
+}
+
+.scroller-md::-webkit-scrollbar-track {
+ background-color: transparent;
+}
