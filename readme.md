@@ -11,7 +11,7 @@
   - [Running the Frontend](#running-the-frontend)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project consists of a frontend built with Vite and React.js and a backend built with Node.js and Express.js. The following instructions will guide you through setting up and running the project.
@@ -92,5 +92,4 @@ This project consists of a frontend built with Vite and React.js and a backend b
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
